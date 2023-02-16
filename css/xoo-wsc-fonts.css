@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: 'Woo-Side-Cart';
   src:  url('fonts/Woo-Side-Cart.eot?le17z4');
   src:  url('fonts/Woo-Side-Cart.eot?le17z4#iefix') format('embedded-opentype'),
@@ -8,7 +8,7 @@
   font-weight: normal;
   font-style: normal;
   font-display: block;
-}
+} */
 
 [class^="xoo-wsc-icon-"], [class*=" xoo-wsc-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
